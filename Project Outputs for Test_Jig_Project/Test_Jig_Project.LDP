@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\GitHub\Project4\Test-Jig-PCB-Board\Test_Jig_Project.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=test_jig_project-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Square_Holes|DrillFile=test_jig_project-squareholes.txt|DrillLayers=gtl,gbl
