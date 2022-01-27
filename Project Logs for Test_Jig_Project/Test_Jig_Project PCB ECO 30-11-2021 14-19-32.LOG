@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=P15-2
+Removed Pin From Net: NetName=GND Pin=Re11-1
+Removed Pin From Net: NetName=GND Pin=Re12-1
+Removed Pin From Net: NetName=GND Pin=Re13-1
+Removed Pin From Net: NetName=GND Pin=Re14-1
+Added Pin To Net: NetName=MGND Pin=P15-2
+Added Pin To Net: NetName=MGND Pin=Re11-1
+Added Pin To Net: NetName=MGND Pin=Re12-1
+Added Pin To Net: NetName=MGND Pin=Re13-1
+Added Pin To Net: NetName=MGND Pin=Re14-1
+Added Net: Name=MGND
+Added Room: Name=Test_Jig_Project

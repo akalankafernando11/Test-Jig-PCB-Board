@@ -1,0 +1,9 @@
+Change Component Comment : Designator=TP5 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP6 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP7 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP8 Old Comment= New Comment=TP
+Change Component Comment : Designator=TP9 Old Comment= New Comment=TP
+Change Component Comment : Designator=USB1 D+ Old Comment= New Comment=TP
+Change Component Comment : Designator=USB1 D- Old Comment= New Comment=TP
+Change Component Comment : Designator=USB1 RXD Old Comment= New Comment=TP
+Added Room: Name=Test_Jig_Project

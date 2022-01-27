@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Voltmeter+ Pin=Re?-1
+Removed Pin From Net: NetName=USB_5V_IN Pin=Re?-2
+Removed Pin From Net: NetName=TP7 Pin=Re?-3
+Removed Member From Class: ClassName=Test_Jig_Project Member=Re?
+Removed Member From Class: ClassName=Test_Jig_Project Member=TP22
+Added Room: Name=Test_Jig_Project

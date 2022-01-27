@@ -1,0 +1,16 @@
+Change Component Description : Designator=R1 Old Description=RES Thick Film, 100kO, 1%, 0.063W, 100ppm/°C, 0402 New Description=RES Thick Film, 100kO, 1%, 0.063W, 100ppm/°C, 0402
+Added Component: Designator=Re?(PAN CHANG SIP-1A05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C10496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "SIP-1A05"; VariantName = "[No Variations]"
+Added Component: Designator=TP22(Testpoint)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Voltmeter+ Pin=Re?-1
+Added Pin To Net: NetName=USB_5V_IN Pin=Re?-2
+Added Pin To Net: NetName=TP7 Pin=Re?-3
+Added Pin To Net: NetName=NetRe?_4 Pin=Re?-4
+Added Pin To Net: NetName=NetRe?_4 Pin=TP22-1
+Added Net: Name=NetRe?_4
+Added Member To Class: ClassName=Test_Jig_Project Member=Component Re? PAN CHANG SIP-1A05
+Added Member To Class: ClassName=Test_Jig_Project Member=Component TP22 TP
+Added Room: Name=Test_Jig_Project

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=USB_5V_IN Pin=Re10-2
+Removed Pin From Net: NetName=USB_ON_out Pin=Re10-3
+Change Component Description : Designator=R1 Old Description=RES Thick Film, 100kO, 1%, 0.063W, 100ppm/°C, 0402 New Description=RES Thick Film, 100kO, 1%, 0.063W, 100ppm/°C, 0402
+Added Pin To Net: NetName=USB_ON_out Pin=Re10-2
+Added Pin To Net: NetName=USB_5V_IN Pin=Re10-3
+Added Room: Name=Test_Jig_Project

@@ -1,0 +1,4 @@
+Added Component: Designator=TP1(Testpoint)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetK5_3 Pin=TP1-1
+Added Member To Class: ClassName=Test_Jig_Project Member=Component TP1 TP

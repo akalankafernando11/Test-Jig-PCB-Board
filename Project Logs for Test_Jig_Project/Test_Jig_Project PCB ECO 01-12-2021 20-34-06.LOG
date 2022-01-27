@@ -1,0 +1,330 @@
+Added Component: Designator=CON1(XF2M20151A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/lcsc/1912111437_Omron-Electronics-XF2M-2015-1A_C57541.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XF2M-2015-1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "653-XF2M-2015-1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Omron-Electronics/XF2M-2015-1A?qs=9iNEzSI19qWZ677VhkompQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "US$ 0.4815"; VariantName = "[No Variations]"
+Added Component: Designator=CON2(629105136821)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Connector Type"; Value = "MicroUSB2.0TypeB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "30mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/629105136821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "629105136821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "629105136821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "30VAC"; VariantName = "[No Variations]"
+Added Component: Designator=M1(ESP32-DEVKIT-V1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P15(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Re1(PAN CHANG SIP-1A05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C10496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "SIP-1A05"; VariantName = "[No Variations]"
+Added Component: Designator=Re2(PAN CHANG SIP-1A05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C10496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "SIP-1A05"; VariantName = "[No Variations]"
+Added Component: Designator=Re3(PAN CHANG SIP-1A05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C10496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "SIP-1A05"; VariantName = "[No Variations]"
+Added Component: Designator=Re4(PAN CHANG SIP-1A05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C10496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "SIP-1A05"; VariantName = "[No Variations]"
+Added Component: Designator=Re5(PAN CHANG SIP-1A05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C10496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "SIP-1A05"; VariantName = "[No Variations]"
+Added Component: Designator=Re6(PAN CHANG SIP-1A05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C10496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "SIP-1A05"; VariantName = "[No Variations]"
+Added Component: Designator=Re7(PAN CHANG SIP-1A05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C10496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "SIP-1A05"; VariantName = "[No Variations]"
+Added Component: Designator=Re8(PAN CHANG SIP-1A05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C10496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "SIP-1A05"; VariantName = "[No Variations]"
+Added Component: Designator=Re9(PAN CHANG SIP-1A05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C10496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "SIP-1A05"; VariantName = "[No Variations]"
+Added Component: Designator=Re10(PAN CHANG SIP-1A05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C10496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "SIP-1A05"; VariantName = "[No Variations]"
+Added Component: Designator=Re11(PAN CHANG SIP-1A05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C10496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "SIP-1A05"; VariantName = "[No Variations]"
+Added Component: Designator=Re12(PAN CHANG SIP-1A05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C10496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "SIP-1A05"; VariantName = "[No Variations]"
+Added Component: Designator=Re13(PAN CHANG SIP-1A05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C10496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "SIP-1A05"; VariantName = "[No Variations]"
+Added Component: Designator=Re14(PAN CHANG SIP-1A05)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C10496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "SIP-1A05"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(Testpoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP4(Testpoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP5(Testpoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP6(Testpoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP7(Testpoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP8(Testpoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP9(Testpoint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(SOP127P600X175-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2108201930_Changjiang-Electronics-Tech--CJ-ULN2003_C2829422.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Changjiang Electronics Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "ULN2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOP-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "$ 0.2329"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SOP127P600X175-16N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2108201930_Changjiang-Electronics-Tech--CJ-ULN2003_C2829422.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Changjiang Electronics Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr. Part #"; Value = "ULN2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOP-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price"; Value = "$ 0.2329"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CON1-1
+Added Pin To Net: NetName=GND Pin=CON1-2
+Added Pin To Net: NetName=GND Pin=CON1-3
+Added Pin To Net: NetName=GND Pin=CON1-7
+Added Pin To Net: NetName=GND Pin=CON1-9
+Added Pin To Net: NetName=ESP_RXD Pin=CON1-12
+Added Pin To Net: NetName=USB_D+ Pin=CON1-14
+Added Pin To Net: NetName=USB_D- Pin=CON1-15
+Added Pin To Net: NetName=USB_5V_OUT Pin=CON1-17
+Added Pin To Net: NetName=USB_5V_OUT Pin=CON1-18
+Added Pin To Net: NetName=USB_5V_OUT Pin=CON1-19
+Added Pin To Net: NetName=USB_5V_OUT Pin=CON1-20
+Added Pin To Net: NetName=GND Pin=CON1-MP1
+Added Pin To Net: NetName=GND Pin=CON1-MP2
+Added Pin To Net: NetName=USB_5V_IN Pin=CON2-1
+Added Pin To Net: NetName=GND Pin=CON2-5
+Added Pin To Net: NetName=GND Pin=M1-2
+Added Pin To Net: NetName=GND Pin=M1-6
+Added Pin To Net: NetName=GND Pin=M1-12
+Added Pin To Net: NetName=GND Pin=M1-16
+Added Pin To Net: NetName=GND Pin=M1-29
+Added Pin To Net: NetName=USB_5V_IN Pin=M1-30
+Added Pin To Net: NetName=USB1_5V_IN Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=USB_5V_IN Pin=Re1-2
+Added Pin To Net: NetName=NetRe1_4 Pin=Re1-4
+Added Pin To Net: NetName=USB_5V_IN Pin=Re2-2
+Added Pin To Net: NetName=NetRe2_4 Pin=Re2-4
+Added Pin To Net: NetName=USB_5V_IN Pin=Re3-2
+Added Pin To Net: NetName=NetRe3_4 Pin=Re3-4
+Added Pin To Net: NetName=USB_5V_IN Pin=Re4-2
+Added Pin To Net: NetName=NetRe4_4 Pin=Re4-4
+Added Pin To Net: NetName=USB_5V_IN Pin=Re5-2
+Added Pin To Net: NetName=NetRe5_4 Pin=Re5-4
+Added Pin To Net: NetName=USB_5V_IN Pin=Re6-2
+Added Pin To Net: NetName=NetRe6_4 Pin=Re6-4
+Added Pin To Net: NetName=USB_5V_IN Pin=Re7-2
+Added Pin To Net: NetName=USB_5V_IN Pin=Re8-2
+Added Pin To Net: NetName=USB_5V_IN Pin=Re9-2
+Added Pin To Net: NetName=USB_5V_IN Pin=Re10-1
+Added Pin To Net: NetName=USB_5V_IN Pin=Re10-2
+Added Pin To Net: NetName=USB1_5V_IN Pin=Re10-4
+Added Pin To Net: NetName=USB_5V_IN Pin=Re11-2
+Added Pin To Net: NetName=NetRe11_4 Pin=Re11-4
+Added Pin To Net: NetName=USB_5V_IN Pin=Re12-2
+Added Pin To Net: NetName=USB_D- Pin=Re12-4
+Added Pin To Net: NetName=USB_5V_IN Pin=Re13-2
+Added Pin To Net: NetName=USB_D+ Pin=Re13-4
+Added Pin To Net: NetName=USB_5V_IN Pin=Re14-2
+Added Pin To Net: NetName=ESP_RXD Pin=Re14-4
+Added Pin To Net: NetName=NetRe5_4 Pin=TP1-1
+Added Pin To Net: NetName=NetRe1_4 Pin=TP4-1
+Added Pin To Net: NetName=NetRe6_4 Pin=TP5-1
+Added Pin To Net: NetName=NetRe4_4 Pin=TP6-1
+Added Pin To Net: NetName=NetRe2_4 Pin=TP7-1
+Added Pin To Net: NetName=NetRe3_4 Pin=TP8-1
+Added Pin To Net: NetName=NetRe11_4 Pin=TP9-1
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=USB_5V_IN Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=USB_5V_IN Pin=U2-9
+Added Pin To Net: NetName=D+_out Pin=Re8-3
+Added Pin To Net: NetName=D+_out Pin=U1-15
+Added Net: Name=D+_out
+Added Pin To Net: NetName=D+ Pin=M1-15
+Added Pin To Net: NetName=D+ Pin=U1-2
+Added Net: Name=D+
+Added Pin To Net: NetName=D-_out Pin=Re7-3
+Added Pin To Net: NetName=D-_out Pin=U1-16
+Added Net: Name=D-_out
+Added Pin To Net: NetName=D- Pin=M1-10
+Added Pin To Net: NetName=D- Pin=U1-1
+Added Net: Name=D-
+Added Pin To Net: NetName=Ribbon_D+_out Pin=Re13-3
+Added Pin To Net: NetName=Ribbon_D+_out Pin=U1-11
+Added Net: Name=Ribbon_D+_out
+Added Pin To Net: NetName=Ribbon_D+ Pin=M1-22
+Added Pin To Net: NetName=Ribbon_D+ Pin=U1-7
+Added Net: Name=Ribbon_D+
+Added Pin To Net: NetName=Ribbon_D-_out Pin=Re12-3
+Added Pin To Net: NetName=Ribbon_D-_out Pin=U1-12
+Added Net: Name=Ribbon_D-_out
+Added Pin To Net: NetName=Ribbon_D- Pin=M1-25
+Added Pin To Net: NetName=Ribbon_D- Pin=U1-5
+Added Net: Name=Ribbon_D-
+Added Pin To Net: NetName=Ribbon_RXD_out Pin=Re14-3
+Added Pin To Net: NetName=Ribbon_RXD_out Pin=U1-10
+Added Net: Name=Ribbon_RXD_out
+Added Pin To Net: NetName=Ribbon_RXD Pin=M1-21
+Added Pin To Net: NetName=Ribbon_RXD Pin=U1-6
+Added Net: Name=Ribbon_RXD
+Added Pin To Net: NetName=RXD_out Pin=Re9-3
+Added Pin To Net: NetName=RXD_out Pin=U2-11
+Added Net: Name=RXD_out
+Added Pin To Net: NetName=RXD Pin=M1-3
+Added Pin To Net: NetName=RXD Pin=U2-6
+Added Net: Name=RXD
+Added Pin To Net: NetName=SCL Pin=CON1-11
+Added Pin To Net: NetName=SCL Pin=M1-14
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=CON1-10
+Added Pin To Net: NetName=SDA Pin=M1-11
+Added Net: Name=SDA
+Added Pin To Net: NetName=TP1_out Pin=Re5-3
+Added Pin To Net: NetName=TP1_out Pin=U1-14
+Added Net: Name=TP1_out
+Added Pin To Net: NetName=TP1 Pin=M1-23
+Added Pin To Net: NetName=TP1 Pin=U1-3
+Added Net: Name=TP1
+Added Pin To Net: NetName=TP4_out Pin=Re1-3
+Added Pin To Net: NetName=TP4_out Pin=U2-16
+Added Net: Name=TP4_out
+Added Pin To Net: NetName=TP4 Pin=M1-5
+Added Pin To Net: NetName=TP4 Pin=U2-1
+Added Net: Name=TP4
+Added Pin To Net: NetName=TP5_out Pin=Re6-3
+Added Pin To Net: NetName=TP5_out Pin=U2-10
+Added Net: Name=TP5_out
+Added Pin To Net: NetName=TP5 Pin=M1-9
+Added Pin To Net: NetName=TP5 Pin=U2-7
+Added Net: Name=TP5
+Added Pin To Net: NetName=TP6_out Pin=Re4-3
+Added Pin To Net: NetName=TP6_out Pin=U2-13
+Added Net: Name=TP6_out
+Added Pin To Net: NetName=TP6 Pin=M1-28
+Added Pin To Net: NetName=TP6 Pin=U2-4
+Added Net: Name=TP6
+Added Pin To Net: NetName=TP7_out Pin=Re2-3
+Added Pin To Net: NetName=TP7_out Pin=U2-15
+Added Net: Name=TP7_out
+Added Pin To Net: NetName=TP7 Pin=M1-8
+Added Pin To Net: NetName=TP7 Pin=U2-2
+Added Net: Name=TP7
+Added Pin To Net: NetName=TP8_out Pin=Re3-3
+Added Pin To Net: NetName=TP8_out Pin=U2-14
+Added Net: Name=TP8_out
+Added Pin To Net: NetName=TP8 Pin=M1-27
+Added Pin To Net: NetName=TP8 Pin=U2-3
+Added Net: Name=TP8
+Added Pin To Net: NetName=TP9_out Pin=Re11-3
+Added Pin To Net: NetName=TP9_out Pin=U1-13
+Added Net: Name=TP9_out
+Added Pin To Net: NetName=TP9 Pin=M1-24
+Added Pin To Net: NetName=TP9 Pin=U1-4
+Added Net: Name=TP9
+Added Pin To Net: NetName=USB1_D+ Pin=P1-3
+Added Pin To Net: NetName=USB1_D+ Pin=Re8-4
+Added Net: Name=USB1_D+
+Added Pin To Net: NetName=USB1_D- Pin=P1-2
+Added Pin To Net: NetName=USB1_D- Pin=Re7-4
+Added Net: Name=USB1_D-
+Added Pin To Net: NetName=USB1_RXD Pin=P1-4
+Added Pin To Net: NetName=USB1_RXD Pin=Re9-4
+Added Net: Name=USB1_RXD
+Added Pin To Net: NetName=USB_ON_out Pin=Re10-3
+Added Pin To Net: NetName=USB_ON_out Pin=U2-12
+Added Net: Name=USB_ON_out
+Added Pin To Net: NetName=USB_ON Pin=M1-26
+Added Pin To Net: NetName=USB_ON Pin=U2-5
+Added Net: Name=USB_ON
+Added Pin To Net: NetName=Voltmeter+ Pin=P15-1
+Added Pin To Net: NetName=Voltmeter+ Pin=Re1-1
+Added Pin To Net: NetName=Voltmeter+ Pin=Re2-1
+Added Pin To Net: NetName=Voltmeter+ Pin=Re3-1
+Added Pin To Net: NetName=Voltmeter+ Pin=Re4-1
+Added Pin To Net: NetName=Voltmeter+ Pin=Re5-1
+Added Pin To Net: NetName=Voltmeter+ Pin=Re6-1
+Added Pin To Net: NetName=Voltmeter+ Pin=Re7-1
+Added Pin To Net: NetName=Voltmeter+ Pin=Re8-1
+Added Pin To Net: NetName=Voltmeter+ Pin=Re9-1
+Added Net: Name=Voltmeter+
+Added Pin To Net: NetName=Voltmeter- Pin=P15-2
+Added Pin To Net: NetName=Voltmeter- Pin=Re11-1
+Added Pin To Net: NetName=Voltmeter- Pin=Re12-1
+Added Pin To Net: NetName=Voltmeter- Pin=Re13-1
+Added Pin To Net: NetName=Voltmeter- Pin=Re14-1
+Added Net: Name=Voltmeter-
+Added Member To Class: ClassName=Test_Jig_Project Member=Component CON1 XF2M-2015-1A
+Added Member To Class: ClassName=Test_Jig_Project Member=Component CON2 629105136821
+Added Member To Class: ClassName=Test_Jig_Project Member=Component M1 ESP32-WROOM-32
+Added Member To Class: ClassName=Test_Jig_Project Member=Component P1 Header 6
+Added Member To Class: ClassName=Test_Jig_Project Member=Component P15 Header 2
+Added Member To Class: ClassName=Test_Jig_Project Member=Component Re1 PAN CHANG SIP-1A05
+Added Member To Class: ClassName=Test_Jig_Project Member=Component Re2 PAN CHANG SIP-1A05
+Added Member To Class: ClassName=Test_Jig_Project Member=Component Re3 PAN CHANG SIP-1A05
+Added Member To Class: ClassName=Test_Jig_Project Member=Component Re4 PAN CHANG SIP-1A05
+Added Member To Class: ClassName=Test_Jig_Project Member=Component Re5 PAN CHANG SIP-1A05
+Added Member To Class: ClassName=Test_Jig_Project Member=Component Re6 PAN CHANG SIP-1A05
+Added Member To Class: ClassName=Test_Jig_Project Member=Component Re7 PAN CHANG SIP-1A05
+Added Member To Class: ClassName=Test_Jig_Project Member=Component Re8 PAN CHANG SIP-1A05
+Added Member To Class: ClassName=Test_Jig_Project Member=Component Re9 PAN CHANG SIP-1A05
+Added Member To Class: ClassName=Test_Jig_Project Member=Component Re10 PAN CHANG SIP-1A05
+Added Member To Class: ClassName=Test_Jig_Project Member=Component Re11 PAN CHANG SIP-1A05
+Added Member To Class: ClassName=Test_Jig_Project Member=Component Re12 PAN CHANG SIP-1A05
+Added Member To Class: ClassName=Test_Jig_Project Member=Component Re13 PAN CHANG SIP-1A05
+Added Member To Class: ClassName=Test_Jig_Project Member=Component Re14 PAN CHANG SIP-1A05
+Added Member To Class: ClassName=Test_Jig_Project Member=Component TP1 TP
+Added Member To Class: ClassName=Test_Jig_Project Member=Component TP4 TP
+Added Member To Class: ClassName=Test_Jig_Project Member=Component TP5 TP
+Added Member To Class: ClassName=Test_Jig_Project Member=Component TP6 TP
+Added Member To Class: ClassName=Test_Jig_Project Member=Component TP7 TP
+Added Member To Class: ClassName=Test_Jig_Project Member=Component TP8 TP
+Added Member To Class: ClassName=Test_Jig_Project Member=Component TP9 TP
+Added Member To Class: ClassName=Test_Jig_Project Member=Component U1 ULN2003
+Added Member To Class: ClassName=Test_Jig_Project Member=Component U2 ULN2003
+Added Room: Name=Test_Jig_Project

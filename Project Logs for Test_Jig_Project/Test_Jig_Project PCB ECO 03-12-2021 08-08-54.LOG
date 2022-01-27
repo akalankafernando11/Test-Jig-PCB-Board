@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=USB_ON_out Pin=Re10-2
+Removed Pin From Net: NetName=USB_5V_IN Pin=Re10-3
+Added Pin To Net: NetName=USB_5V_IN Pin=Re10-2
+Added Pin To Net: NetName=USB_ON_out Pin=Re10-3
+Added Room: Name=Test_Jig_Project
